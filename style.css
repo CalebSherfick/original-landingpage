@@ -1,0 +1,21 @@
+/* * {
+  outline: solid red 1px;
+} */
+
+.navi {
+  background-color: #343534;
+  border-radius: 4px;
+}
+
+.nav-text {
+  color: #f4fffd;
+}
+
+
+.head-photo {
+  background-image: url("federica-galli-449563-unsplash.jpg");
+  background-size: 100%;
+  width: 100%;
+  background-position: center 95%;
+  padding: 20vh;
+}
