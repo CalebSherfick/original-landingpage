@@ -4,25 +4,39 @@
 
 .navi {
   background-color: #343534;
-  border-radius: 4px;
-}
+  }
 
 .nav-text {
   color: #f4fffd;
 }
 
 .head-photo {
-  background-image: url("federica-galli-449563-unsplash.jpg");
+  background-image: url("resources/federica-galli-449563-unsplash.jpg");
   background-size: 100%;
   width: 100%;
   background-position: center 95%;
   padding: 20vh;
+  border-radius: 0px;
 }
 
 .photo-letters {  
-  text-shadow: -1px 1px 4px;
+  text-shadow: -1px 1px 2px;
 }
 
 .btn-color {
   background-color: #67747b;
 }
+
+.about-color {
+background-color:#2d3142 ;
+color:#f4fffd;
+}
+
+.skill-img {
+  width: 100%;
+}
+
+.portfolio-img {
+  background-image: url("https://source.unsplash.com/random/500x400");
+  background-size: 100%
+  }
