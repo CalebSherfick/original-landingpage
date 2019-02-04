@@ -41,10 +41,6 @@ color:#f4fffd;
   color: #f4fffd;
 }
 
-.portfolio-box {
-  height: 200%;
-}
-
 .portfolio-img {
   background-image: url("https://source.unsplash.com/random/600x300");
   background-size: auto;
