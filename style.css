@@ -33,7 +33,12 @@ color:#f4fffd;
 }
 
 .skill-img {
-  width: 100%;
+  max-width: 20vh; 
+}
+
+.xp-background {
+  background-color: #2d3142;
+  color: #f4fffd;
 }
 
 .portfolio-box {
