@@ -28,8 +28,13 @@
 }
 
 .about-color {
-background-color:#2d3142 ;
+background-color:#67747b ;
 color:#f4fffd;
+}
+
+.skills-bg {
+  background-color: #dde0dc;
+  color: #343534;
 }
 
 .skill-img {
@@ -37,17 +42,16 @@ color:#f4fffd;
 }
 
 .xp-background {
-  background-color: #2d3142;
-  color: #f4fffd;
+  background-color: #f4fffd;
+  color: #475841
 }
 
 .portfolio-img {
-  background-image: url("https://source.unsplash.com/random/600x300");
+  background-image: url("https://source.unsplash.com/random/700x300");
   background-size: auto;
   width: 100%;
-  height: 35vh;
-  background-repeat: no-repeat;
-  
+  height: 25vh;
+  background-repeat: no-repeat;  
     }
 
   .foot-color {
@@ -56,6 +60,6 @@ color:#f4fffd;
   }
 
   .project-text {
-  color:black;
+  color:#f4fffd;
     text-shadow: -1px 1px 2px;
   }
